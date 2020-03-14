@@ -14,8 +14,8 @@ console.log(sdate) ;
     var config = {
         user: 'sysadm',
         password: 'Europe7',
-        server: 'aa-ap530', 
-        database: 'ET7Live' 
+        server: 'aa-ap529', 
+        database: 'ET7Test' 
     };
 //var sqlquery="select Case_no,case_no_int, creation,claim,creator,note_count,updated,updater from dbo.[CASE] where CONVERT(date, CREATION) ='" + sdate+"'" 
 //var sqlquery="select Case_no,case_no_int, creation,claim,creator,note_count,updated,updater from dbo.[CASE] where CONVERT(date, CREATION) between'" + sdate+"' and '" //+ edate +"'"  
